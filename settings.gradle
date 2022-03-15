@@ -1,2 +1,4 @@
+include ':EventUtil'
+include ':compiler'
 include ':app'
 rootProject.name = "EventUtils"
